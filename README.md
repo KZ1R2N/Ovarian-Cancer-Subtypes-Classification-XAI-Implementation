@@ -69,11 +69,6 @@ The confusion matrix shows robust classification across all five classes.
 
 
 
-### 3️⃣ Explainable AI (XAI) Visualization:
-![XAI Image](xai1.PNG)
-![XAI Image2](xai2.PNG)
-
----
 
 
 ---
@@ -102,7 +97,12 @@ $ cd Ovarian-Cancer-Subtypes-Classification-XAI-Implementation
 ## 📈 Results and Visualization
 
 ### 2️⃣ Confusion Matrix:
-![Confusion Matrix](ovarianCancerCM.png)
+![Confusion Matrix](ovarianCancerCM.PNG)
+
+---
+### 3️⃣ Explainable AI (XAI) Visualization:
+![XAI Image](xai1.PNG)
+![XAI Image2](xai2.PNG)
 
 ---
 
